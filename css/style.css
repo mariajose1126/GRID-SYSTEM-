@@ -1,0 +1,209 @@
+/* Inserta tu codigo aqui */
+header{
+	padding: 15px 0;
+	margin: 0;
+	color: #fff;
+	border-bottom: solid #333 1px;
+	background-color: #333;
+}
+.logo{
+	width: 80px;
+	height: 80px;
+}
+nav ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float:right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap; 
+}
+nav li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav li:hover a{
+	background: #585858;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+nav a:hover{
+	color:#fff;
+}
+/*AQUI ESTÁ MI PARTE*/
+
+.section{
+	padding: 20px 0;
+	margin: 0px 0px 50px 0px;
+	color: #fff;
+	background-color: #F2F2F2;
+	height: 350px;
+	border-bottom: 1px solid #E6E6E6;
+}
+
+.almanac{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+	border: 1px solid #BDBDBD;
+	border-style: double; border-width: 4px;	
+}
+
+.latest{
+	color: black !important;
+	padding: 0px 0px 20px;
+	font-size: 20px;
+}
+
+.episode{
+	font-family: Helvetica;
+	display: inline-block;
+	color:#2E64FE;
+}
+
+.letradlc{
+	text-align: center;
+	font-family: Arial;
+	font-size: 15px;
+	color: #2E64FE;
+}
+
+.imagenchica{
+	width: 100%;
+	height: 100px;
+}
+
+.inline{
+	width: 15%;
+	height: 140px;
+	margin: 0px 5% 0 0;
+	float: left;
+	font-size: 12px;
+	font-family: Arial;
+	color: #2E64FE;
+	text-align: center;		
+}
+
+.bordedoble{
+	width: 100%;
+	height: 108px;
+	margin: 0px 5% 0 0;
+	float: left;
+	border: 1px solid #BDBDBD;
+	border-style: double; border-width: 4px;	
+}
+
+.letradlc{
+	text-align: center;
+	font-family: Arial;
+	font-size: 15px;
+	color: #2E64FE;
+}
+
+.horizontal{
+	width: 190px;
+	height: 1px;
+	margin: 10px auto;
+	background-color: grey;
+	position: relative;
+	right: 10px;
+}
+
+.itunes{
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 15px;
+	color: #2E64FE;
+	margin: 8px 0px 0px;
+	display: inline-block;
+	font-size: 11px;	
+}
+
+.iconos{
+	width: 12px;
+	height: 12px;
+	margin: 0px 5px 0px 0px;
+}
+
+.by{
+	font-size: 13px;
+	color: black;
+	font-family: Helvetica;
+	margin: 20px 0px 2px;
+}
+
+.band{
+	font-size: 10px;
+	font-family: Helvetica;
+	width: 200px;
+	border: 1px solid white;
+	margin: 30px 0px 0px 0px;
+}
+
+ a{
+	text-decoration: none;
+	color:#2E64FE;
+}
+
+footer{
+	padding: 15px 0;
+	margin: 0;
+	width: 100%;
+	height: 150px;
+	color: #fff;
+	background-color:#6E6E6E;
+	border-style: groove;
+}
+
+.geeks{
+	font-size: 14px;
+	font-family: Helvetica;
+}
+
+div.geeks a{
+	text-decoration: none;
+	color: #D8D8D8;
+}
+
+div.geeks a:hover{
+	color: white;
+}
+
+#copy{
+	padding: 0;
+	margin: 15px 0px 0px;
+}
+
+#copy li{
+	display: inline;
+}
+
+#copy li a{
+	font-family: Helvetica;
+	font-size:11px;
+	text-decoration: none;
+	float:left;
+	padding: 10px;
+	margin: 0 auto;
+	color: #D8D8D8;
+}
+
+#copy li a:hover{
+	color: white;
+}
+
+.final{
+	margin: 15px 0px 0px ;
+	font-family: Helvetica;
+	font-size:11px;
+	color: #BDBDBD;
+	text-align: center;
+}
